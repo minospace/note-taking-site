@@ -1,5 +1,15 @@
-.header {
-  text-align: center;
-  font-family: monospace;
-  font-size: xx-large;
+textarea {
+  width: 90%;
+  height: 70vw;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  box-sizing: border-box;
+  display: block;
+  margin: auto;
+  resize: none;
+}
+
+header {
+  padding: 20px;
 }
