@@ -8,8 +8,19 @@ textarea {
   display: block;
   margin: auto;
   resize: none;
+  font-family: monospace;
+  font-size: larger;
 }
 
 header {
   padding: 20px;
 }
+
+#note-title-input {
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 5px;
+
+  display: flex;
+  margin: auto;
+} 
